@@ -1,1 +1,1 @@
-# sh3d_pi
+Experiments SweetHome3D on raspberry pi 5
