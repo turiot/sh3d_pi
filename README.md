@@ -1,5 +1,7 @@
 Experiments SweetHome3D on raspberry pi 5
 
+![sscreenshot](./screenshot.png "")
+
 Prerequisites
 -------------
 change pi configuration from wayland to X11
